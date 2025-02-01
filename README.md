@@ -1,6 +1,5 @@
 ### **README.md**  
 
-```markdown
 # 🌱 AI-Powered Crop Recommendation System  
 
 ## 🚀 Overview  
@@ -22,6 +21,8 @@ The **AI-Powered Crop Recommendation System** is a **machine learning-based web 
 - **Database**: SQLite  
 - **Data Processing**: Pandas, NumPy, Scikit-learn  
 - **IoT Integration**: Soil sensors + Weather APIs  
+
+## 📁 Project Structure   
 
 ## 📁 Project Structure  
 ```
