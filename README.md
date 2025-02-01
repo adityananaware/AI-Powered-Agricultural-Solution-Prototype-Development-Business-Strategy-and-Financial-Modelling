@@ -23,7 +23,7 @@ The **AI-Powered Crop Recommendation System** is a **machine learning-based web 
 - **IoT Integration**: Soil sensors + Weather APIs    
 
 ## 📁 Project Structure  
-```
+
 AI-Crop-Recommendation/
 │-- backend/                # Flask Backend
 │   ├── app.py              # Main Flask App
@@ -50,7 +50,7 @@ AI-Crop-Recommendation/
 │   ├── usage_guide.md       # How to Use the System
 │
 │-- README.md                # Project Documentation
-```
+
 
 ## 🎯 Installation & Setup  
 
