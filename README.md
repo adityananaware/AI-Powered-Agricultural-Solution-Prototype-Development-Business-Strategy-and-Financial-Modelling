@@ -20,9 +20,7 @@ The **AI-Powered Crop Recommendation System** is a **machine learning-based web 
 - **Frontend**: React Native  
 - **Database**: SQLite  
 - **Data Processing**: Pandas, NumPy, Scikit-learn  
-- **IoT Integration**: Soil sensors + Weather APIs  
-
-## 📁 Project Structure   
+- **IoT Integration**: Soil sensors + Weather APIs    
 
 ## 📁 Project Structure  
 ```
