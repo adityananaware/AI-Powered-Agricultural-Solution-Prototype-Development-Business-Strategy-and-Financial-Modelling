@@ -103,9 +103,7 @@ This project is licensed under the **MIT License**.
 Contributions are welcome! Feel free to open issues and submit pull requests.  
 
 ## 📧 Contact  
-For queries, reach out to **[Your Email]** or open an issue in the repository.  
+For queries, reach out to **[adityananaware2@gmail.com]** or open an issue in the repository.  
 
 
 This **README.md** is **structured, professional, and comprehensive**, ensuring clarity for **developers, users, and contributors**.  
-
-Would you like me to add anything else, like **badges, GIFs, or contributor guidelines**? 🚀
