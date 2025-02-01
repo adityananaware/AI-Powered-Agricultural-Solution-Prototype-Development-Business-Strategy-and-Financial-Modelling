@@ -1,5 +1,3 @@
-### **README.md**  
-
 # 🌱 AI-Powered Crop Recommendation System  
 
 ## 🚀 Overview  
