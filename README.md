@@ -1,0 +1,2 @@
+# AI-Powered-Agricultural-Solution-Prototype-Development-Business-Strategy-and-Financial-Modelling
+AI-Powered Crop Recommendation System 🌱🚀  An AI-driven web and mobile application that predicts the best crops based on soil nutrients (NPK), pH, temperature, humidity, and rainfall. Using machine learning, IoT sensors, and real-time weather data, this system helps farmers make data-driven decisions for better yield and sustainability.
